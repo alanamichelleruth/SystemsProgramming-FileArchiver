@@ -1,5 +1,5 @@
 # SystemsProgramming-FileArchiver
-Archives files within a system. Modified version of the unix tar command.
+Archives files within a system. Modified version of the unix tar command. Group project for Systems Programming class.
 
 ## Problem
 Further information can be found in the prog2.pdf file.
